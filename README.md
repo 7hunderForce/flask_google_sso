@@ -1,1 +1,1 @@
-# flask_google_sso
+# Flask Google SSO
